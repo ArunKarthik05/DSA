@@ -5,4 +5,5 @@
 
 ###
 <h2>Lets build a better Repo together💪</h2>
-<p>Fork this Repository and send me PR's so that i can merge it to the master branch🔗<br>Happy coding😊</p>
+<p>Fork this Repository and send me PR's so that i can merge it to the master branch🔗</p>
+<h1>Happy Coding😊</h1>
